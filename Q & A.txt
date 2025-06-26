@@ -1,0 +1,35 @@
+a. What was the most challenging part for you? 
+Ans. The challenging part was when aligning elements like the image and text side-by-side in the hero sections.
+
+b. How did you solve it? (Mention if you used ChatGPT, YouTube, Docs, etc.)
+Ans. I referred to the official Bootstrap documentation to understand it.
+
+
+c. What did you learn during this task? 
+
+Ans. I learned:
+
+How to integrate a custom logo using an image.
+
+How to enhance UI/UX with hover effects.
+How to use external CSS for cleaner code separation.
+
+
+
+d. If we ask you to improve it tomorrow, what would you add?
+ANS. If given more time, I would:
+
+Add a Projects section with interactive cards.
+
+Make it a multi-page portfolio with (Home, About, Projects, Contact).
+
+
+
+e. What is your goal for the next 3 months if selected?
+ANS. My goal is to:
+
+Sharpen my frontend development skills and start exploring React.js for building dynamic web apps.
+
+Work on real-world projects or client tasks to gain practical experience.
+
+Contribute meaningfully to the team, stay consistent, and grow into a professional frontend developer with strong design and coding fundamentals.
